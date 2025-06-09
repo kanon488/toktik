@@ -1,0 +1,70 @@
+# Flutter/Dart/Pub related
+.dart_tool/
+.packages
+.pub-cache/
+build/
+.flutter-plugins
+.flutter-plugins-dependencies
+.melos_tool/
+
+# Web-related
+web/.dart_tool/
+web/build/
+
+# Obfuscated code
+app.*.symbols
+
+# Generated files
+*.g.dart
+
+# iOS
+ios/Flutter/Flutter.framework
+ios/Flutter/Flutter.podspec
+ios/ServiceDefinitions.json
+ios/Runner/GeneratedPluginRegistrant.*
+
+# Android
+android/.gradle/
+android/captures/
+android/gradle.properties
+android/local.properties
+*.iml
+
+# Xcode
+*.xcworkspace
+*.xcuserstate
+*.xcuserdata
+*.xcodeproj/project.xcworkspace/
+ios/Runner.xcodeproj/project.xcworkspace/
+
+# VS Code
+.vscode/
+
+# IntelliJ/Android Studio
+.idea/
+*.iml
+
+# macOS
+macos/Flutter/Flutter.podspec
+macos/Flutter/ephemeral/
+macos/Runner/GeneratedPluginRegistrant.swift
+
+# Windows
+windows/Flutter/ephemeral/
+windows/Runner/GeneratedPluginRegistrant.*
+
+# Linux
+linux/Flutter/ephemeral/
+linux/Runner/GeneratedPluginRegistrant.*
+
+# Fuchsia
+.fuchsia/
+
+# Others
+*.log
+*.lock
+*.tmp
+*.swp
+
+# Firebase related (if using)
+firebase-debug.log
