@@ -68,3 +68,5 @@ linux/Runner/GeneratedPluginRegistrant.*
 
 # Firebase related (if using)
 firebase-debug.log
+
+assets/videos/*
